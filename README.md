@@ -1,168 +1,155 @@
+<!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.alexin.cn">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=%E5%B0%8F%E9%91%AB+Alexin;%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95%E3%80%81%E7%85%A7%E7%89%87%E9%A3%8E%E6%99%AF%E3%80%81%E6%8A%80%E8%83%BD%E5%B9%B2%E8%B4%A7;console.log(%22Hello%2C+world%22)" alt="Alexin typing intro" />
+  <a href="https://blog.alexin.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%E7%94%9F%E6%B4%BB%E6%98%8E%E6%9C%97%EF%BC%8C%E8%AE%B0%E5%BD%95%E6%9C%89%E5%85%89.;console.log(%22Hello%EF%BC%8CAlexin%22);%E5%B0%8F%E9%91%ABAlexin%EF%BC%8C%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B6%A3%E4%BA%8B">
   </a>
 </h1>
 
+<!-- 敲代码的图片 -->
 <div align="center">
-  <a href="https://blog.alexin.cn"><img src="https://img.shields.io/badge/Blog-%E5%B0%8F%E9%91%ABAlexin-36BCF7?style=flat-square&logo=homeassistantcommunitystore&logoColor=white" alt="Blog" /></a>
-  <a href="https://img.alexin.cn"><img src="https://img.shields.io/badge/ImageBed-img.alexin.cn-7C3AED?style=flat-square&logo=cloudflare&logoColor=white" alt="Image Bed" /></a>
-  <a href="https://music.alexin.cn"><img src="https://img.shields.io/badge/Music-music.alexin.cn-FF4D8D?style=flat-square&logo=applemusic&logoColor=white" alt="Music" /></a>
-  <a href="mailto:1028888005@qq.com"><img src="https://img.shields.io/badge/Email-1028888005@qq.com-2EA44F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xiaoxinli324-hash&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/>
 </div>
-
 <br>
 
+<!-- 个人资料徽标 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-assets@main/image/common/github-info/Knock-Code.gif" alt="Coding" width="420" />
+  <a href="https://blog.alexin.cn/"><img src="https://img.shields.io/badge/website-%E5%B0%8F%E9%91%AB%E7%9A%84%E5%8D%9A%E5%AE%A2-blue"></a>&emsp;
+  <a href="https://img.alexin.cn/"><img src="https://img.shields.io/badge/imagebed-%E5%9B%BE%E5%BA%8A-7C3AED"></a>&emsp;
+  <a href="https://music.alexin.cn/"><img src="https://img.shields.io/badge/music-%E9%9F%B3%E4%B9%90%E9%A1%B5-ff69b4"></a>&emsp;
+  <a href="mailto:1028888005@qq.com"><img src="https://img.shields.io/badge/email-1028888005@qq.com-2EA44F"></a>&emsp;
+  <a href="https://github.com/xiaoxinli324-hash"><img src="https://img.shields.io/badge/github-xiaoxinli324--hash-black"></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=xiaoxinli324-hash&color=blueviolet&style=flat-square" />
 </div>
 
-<br>
-
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoxinli324-hash/xiaoxinli324-hash/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaoxinli324-hash/xiaoxinli324-hash/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/xiaoxinli324-hash/xiaoxinli324-hash/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/xiaoxinli324-hash/xiaoxinli324-hash/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
-## Hello
+# 🙋 Hello
 
-这里是小鑫，也可以叫我 Alexin。
+欢迎来到我的主页，我是小鑫，也可以叫我 Alexin。
 
-我在整理一个更像自己的小站：记录生活里的小片段、照片里的风景，也把折腾博客、图床、服务器、页面和工具的过程写成可以回头看的笔记。
+我正在整理一个更像自己的小站：[blog.alexin.cn](https://blog.alexin.cn/)。这个博客主要用来分享生活记录、照片风景、数码设备和一些折腾出来的技能干货。
 
-现在主要在做这些事：
+我喜欢把一些看起来零散的小事情慢慢整理起来：一组照片、一次主题修改、一个图床方案、一个音乐页面，或者某个突然想清楚的小问题。记录下来之后，它们就不只是当时的一点折腾了，也会变成以后还能翻回来的经验。
 
-- 给 `blog.alexin.cn` 写生活记录、相册和技能干货。
-- 折腾 Typecho / Anheyu / 图床 / 音乐页，让博客更顺手。
-- 把零散经验整理成文章模板和 Codex Skill。
-- 用照片、文字和一点点代码，把日常保存得更清楚。
+每次学习别人的东西，再慢慢改成适合自己的样子，都是一次成长。我的博客和 GitHub 主页也会这样一点点完善。
 
-## Now
+💪 正在学习:
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+&emsp;&emsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
-### 正在折腾
+🧠 计划学习:
 
-- 个人博客：<a href="https://blog.alexin.cn">blog.alexin.cn</a>
-- 分享相册：<a href="https://blog.alexin.cn/album">/album</a>
-- 音乐页面：<a href="https://music.alexin.cn">music.alexin.cn</a>
-- 图床服务：<a href="https://img.alexin.cn">img.alexin.cn</a>
-- 博客写作 Skill：<a href="https://github.com/xiaoxinli324-hash/alexin-blog-writer">alexin-blog-writer</a>
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Typecho](https://img.shields.io/badge/-Typecho-467B96?style=flat-square)
+![Anheyu](https://img.shields.io/badge/-Anheyu-36BCF7?style=flat-square)
 
-    </td>
-    <td valign="top" width="50%">
+🧰 常用的工具:
 
-### 博客方向
-
-- 生活：日常记录、照片、风景、相册。
-- 数码：电脑、手机、键盘、相机、装备体验。
-- 科技：博客搭建、服务器、图床、主题修改。
-
-    </td>
-  </tr>
-</table>
-
-## Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</div>
-
-## Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/xiaoxinli324-hash/alexin-blog-writer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinli324-hash&repo=alexin-blog-writer&theme=transparent&hide_border=true" alt="alexin-blog-writer" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://blog.alexin.cn">
-        <img src="https://img.shields.io/badge/Alexin_Blog-%E5%B0%8F%E9%91%AB%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-36BCF7?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white" alt="Alexin Blog" />
-      </a>
-      <br><br>
-      <a href="https://img.alexin.cn">
-        <img src="https://img.shields.io/badge/Image_Bed-%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Image Bed" />
-      </a>
-      <br><br>
-      <a href="https://music.alexin.cn">
-        <img src="https://img.shields.io/badge/Music_Page-%E9%9F%B3%E4%B9%90%E9%A1%B5%E9%9D%A2-FF4D8D?style=for-the-badge&logo=applemusic&logoColor=white" alt="Music Page" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## GitHub Action
+&emsp;&emsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Cursor](https://img.shields.io/badge/-Cursor-13130C?style=flat-square)
+![Codex](https://img.shields.io/badge/-Codex-111827?style=flat-square)
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xiaoxinli324-hash&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinli324-hash&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" />
 </div>
 
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoxinli324-hash&theme=dark&hide_border=true" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
+
+<!-- GitHub 奖杯 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoxinli324-hash&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xiaoxinli324-hash&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoxinli324-hash&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xiaoxinli324-hash&theme=flat&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Trophy" />
-</div>
-
-## Recent Notes
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### Blog
-
-- <a href="https://blog.alexin.cn">小鑫 Alexin 的个人博客</a>
-- <a href="https://blog.alexin.cn/album">分享相册</a>
-- <a href="https://music.alexin.cn">音乐页面</a>
-- <a href="https://img.alexin.cn">图片托管</a>
-
-    </td>
-    <td valign="top" width="50%">
-
-### Focus
-
-- 把博客从默认主题内容改成自己的内容。
-- 优化相册图片加载和图床使用体验。
-- 继续完善侧边卡片、深色背景、加载动画和文章排版。
-- 用 Codex Skill 辅助以后写文章。
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-assets@main/image/common/github-info/personal-homepage-banner.jpg" alt="homepage banner" />
-</div>
-
 <br>
 
+<!-- GitHub 数据统计 -->
 <div align="center">
-  <strong>生活明朗，记录有光。</strong>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaoxinli324-hash&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxinli324-hash&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<!-- 最近博客和项目 -->
+<table align="center">
+<tr>
+<td valign="top">
+
+### 🤹 Recent Blog
+
+- [小鑫 Alexin 的个人博客](https://blog.alexin.cn/)
+- [分享相册](https://blog.alexin.cn/album)
+- [音乐页面](https://music.alexin.cn/)
+- [图片托管](https://img.alexin.cn/)
+- [博客写作 Skill](https://github.com/xiaoxinli324-hash/alexin-blog-writer)
+
+</td>
+<td valign="top">
+
+### 🤾 Project
+
+- [alexin-blog-writer](https://github.com/xiaoxinli324-hash/alexin-blog-writer) - 用来辅助小鑫博客写作和排版的 Codex Skill
+- [xiaoxinli324-hash](https://github.com/xiaoxinli324-hash/xiaoxinli324-hash) - 我的 GitHub 个人主页
+- [blog.alexin.cn](https://blog.alexin.cn/) - 生活记录、照片风景、技能干货
+- [music.alexin.cn](https://music.alexin.cn/) - 独立音乐页面
+- [img.alexin.cn](https://img.alexin.cn/) - 博客图片托管
+
+</td>
+</tr>
+</table>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoxinli324-hash&theme=xcode" />
+</div>
+
+# 🎯 Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoxinli324-hash&repo=alexin-blog-writer&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
+</div>
+
+# 🤝 Social
+
+<div align="center">
+  <a href="https://blog.alexin.cn/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.alexin.cn-36BCF7?style=for-the-badge"></a>
+  <a href="https://img.alexin.cn/"><img src="https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-img.alexin.cn-7C3AED?style=for-the-badge"></a>
+  <a href="https://music.alexin.cn/"><img src="https://img.shields.io/badge/%E9%9F%B3%E4%B9%90-music.alexin.cn-ff69b4?style=for-the-badge"></a>
+  <a href="mailto:1028888005@qq.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-1028888005@qq.com-2EA44F?style=for-the-badge"></a>
 </div>
