@@ -34,7 +34,7 @@
 
 欢迎来到我的主页，我是小鑫，也可以叫我 Alexin。
 
-我正在整理一个更像自己的小站：[blog.alexin.cn](https://blog.alexin.cn/)。这个博客主要用来分享生活记录、照片风景、数码设备和一些折腾出来的技能干货。
+我正在整理一个更像自己的小站：[blog.alexin.cn](https://blog.alexin.cn/)，建站日期是 2026/06/21。这个博客主要用来分享生活记录、照片风景、数码设备和一些折腾出来的技能干货。
 
 我喜欢把一些看起来零散的小事情慢慢整理起来：一组照片、一次主题修改、一个图床方案、一个音乐页面，或者某个突然想清楚的小问题。记录下来之后，它们就不只是当时的一点折腾了，也会变成以后还能翻回来的经验。
 
@@ -45,7 +45,7 @@
 &emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
@@ -59,7 +59,7 @@
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-4285F4.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Typecho](https://img.shields.io/badge/-Typecho-467B96?style=flat-square)
 ![Anheyu](https://img.shields.io/badge/-Anheyu-36BCF7?style=flat-square)
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
@@ -111,9 +111,9 @@
 
 - [小鑫 Alexin 的个人博客](https://blog.alexin.cn/)
 - [分享相册](https://blog.alexin.cn/album)
+- [装备页面](https://blog.alexin.cn/equipment)
 - [音乐页面](https://music.alexin.cn/)
 - [图片托管](https://img.alexin.cn/)
-- [博客写作 Skill](https://github.com/xiaoxinli324-hash/alexin-blog-writer)
 
 </td>
 <td valign="top">
@@ -125,6 +125,7 @@
 - [blog.alexin.cn](https://blog.alexin.cn/) - 生活记录、照片风景、技能干货
 - [music.alexin.cn](https://music.alexin.cn/) - 独立音乐页面
 - [img.alexin.cn](https://img.alexin.cn/) - 博客图片托管
+- [1028888005@qq.com](mailto:1028888005@qq.com) - 联系我
 
 </td>
 </tr>
